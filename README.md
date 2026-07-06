@@ -1,19 +1,19 @@
-# 🐶 Interactive Dog Login Form
+# 🐶 Animated Dog Login Form
 
-A modern and interactive **Dog Login Form** built using **HTML, CSS, and JavaScript**. The animated dog reacts naturally to user interactions by tracking the cursor, perking up its ears while typing the username, and covering its eyes when the password field is focused.
+A modern and interactive **Animated Dog Login Form** built using **HTML, CSS, and JavaScript**. The animated dog reacts naturally to user interactions by tracking the cursor, perking up its ears while typing the username, and covering its eyes when the password field is focused.
 
 ## 🚀 Live Demo
 
-https://yuktrium.github.io/Interactive-Dog-Login-Form/
+https://yuktrium.github.io/Animated-Dog-Login-Form/
 
 ## ✨ Features
 
-- 🐶 Interactive animated dog
+- 🐶 Animated dog character
 - 👀 Eyes follow the cursor
-- 🙈 Covers eyes while entering the password
+- 🙈 Covers its eyes while entering the password
 - 👂 Ear animation on username focus
 - 🎨 Modern responsive UI
-- ⚡ Pure HTML, CSS & JavaScript
+- ⚡ Built with pure HTML, CSS & JavaScript
 - 🔧 Easy to customize
 
 ## 🛠 Tech Stack
@@ -25,7 +25,7 @@ https://yuktrium.github.io/Interactive-Dog-Login-Form/
 ## 📂 Project Structure
 
 ```text
-📦 Interactive-Dog-Login-Form
+📦 Animated-Dog-Login-Form
 ├── index.html
 ├── style.css
 ├── script.js
@@ -35,7 +35,7 @@ https://yuktrium.github.io/Interactive-Dog-Login-Form/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yuktrium/Interactive-Dog-Login-Form.git
+git clone https://github.com/yuktrium/Animated-Dog-Login-Form.git
 ```
 
 Open `index.html` in your browser.
